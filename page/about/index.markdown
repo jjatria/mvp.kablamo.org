@@ -12,7 +12,7 @@ through unnecessary prose. I literally review each sentence in each article and
 try to remove unnecessary words.
 
 In order to keep things short and to the point I've also chosen to be
-opinionated and intentionally left out some dicussions and edge cases that were
+opinionated and intentionally left out some discussions and edge cases that were
 uncommon or not essential. Instead I've tried to link to more information.  
 
 #### Motivation
